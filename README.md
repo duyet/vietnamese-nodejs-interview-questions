@@ -7,6 +7,8 @@ Với mong muốn giúp những ai đang sắp được phỏng vấn chuẩn b�
 
 Mình tha thiết mong muốn mọi người cùng đóng góp nội dung, [tại đây](#how-to-contribute).
 
+[Nodejs - Image by devopscube.com](http://i.imgur.com/y6YsUGi.png)
+
 # Getting Involved
 
 1. [Contributors](#contributors)
