@@ -17,6 +17,12 @@ Mình tha thiết mong muốn mọi người cùng đóng góp nội dung, [tạ
 
 ------------------------------------------
 
+* Error-first callback là gì?
+* Làm thế nào để listen port 80 trong Nodejs? (Trick question)
+* Event loop là gì?
+* Test pyramid là gì?
+* "callback hell" là gì? Và cách để tránh "callback hell"?
+
 *(Coming soon)*
 
 ------------------------------------------
