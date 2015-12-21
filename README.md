@@ -16,7 +16,7 @@ Mình tha thiết mong muốn mọi người cùng đóng góp nội dung, [tạ
 3. [License](https://github.com/duyetdev/nodejs-interview-questions-vietnamese/blob/master/LICENSE)
 
 ------------------------------------------
-
+* [Javascript basic](https://github.com/duyetdev/vietnamese-frontend-interview-questions#h%E1%BB%8Fi-v%E1%BB%81-javascript)
 * Error-first callback là gì?
 * Làm thế nào để listen port 80 trong Nodejs? (Trick question)
 * Event loop là gì?
